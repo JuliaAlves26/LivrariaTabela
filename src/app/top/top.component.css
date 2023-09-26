@@ -1,0 +1,21 @@
+/* Estilo para a barra de navegação */
+.navbar {
+    background-color: #343a40; /* Cor de fundo */
+}
+
+/* Estilo para o link ativo na navegação */
+.nav-link.active {
+    color: #ffc107; /* Cor do link ativo */
+}
+
+/* Estilo para o botão de alternância da navegação em telas pequenas */
+.navbar-toggler-icon {
+    background-color: #fff; /* Cor do ícone do botão de alternância */
+}
+
+/* Estilo para o formulário de pesquisa */
+.form-control {
+    background-color: #f8f9fa; /* Cor de fundo do campo de pesquisa */
+    color: #333; /* Cor do texto no campo de pesquisa */
+    border-color: #ccc; /* Cor da borda do campo de pesquisa */
+}
